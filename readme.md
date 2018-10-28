@@ -121,6 +121,17 @@
 | ------: | -------: | ------: |
 |   3 - 6 |       10 | 60-120m |
 
+### [Cleopatra and the Society of Architects](https://www.daysofwonder.com/cleopatra/en/)
+
+> Cleopatra and the Soiaty of Architects is a fun and engaging family game that includes a true, three-dimensional palace that players compete to build. Players strive to become the wealthiest of Cleopatra’s architects by constructing the most magnificent and valuable parts of her palace.
+
+https://upload.wikimedia.org/wikipedia/en/2/22/Cleopatra_Dow_board_game.jpg
+
+| Players | Min. Age |  Time |
+| ------: | -------: | ----: |
+|   3 - 5 |       10 |   60m |
+
+
 ## Contribute
 
 Contributions are welcome and encouraged! Read the [contribution guidelines][contrib-guide] first.
